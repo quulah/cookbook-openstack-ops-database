@@ -22,6 +22,6 @@ end
 depends 'mariadb', '~> 0.3.0'
 depends 'mysql', '~> 6.0.13'
 depends 'mysql2_chef_gem', '~> 1.0.1'
-depends 'postgresql', '~> 3.4.18'
+depends 'postgresql', '~> 3.4.20'
 depends 'database', '~> 4.0.2'
 depends 'openstack-common', '>= 11.0.0'
